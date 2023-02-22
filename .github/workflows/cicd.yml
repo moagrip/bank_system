@@ -27,3 +27,4 @@ jobs:
       with:
         name: BankSystem.jar
         path: bank-system/target/bank-system-1.0-SNAPSHOT.jar
+        target: .
